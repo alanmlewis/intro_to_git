@@ -1,1 +1,1 @@
-Conflicts are good!
+Conflicts are good for learning about Git!
